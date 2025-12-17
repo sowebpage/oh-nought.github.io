@@ -2,12 +2,10 @@
 #
 # This is the configuration file for your blog, please change these items after forked.
 
-title: Your title
+title: Sanchezner Orange
 email: your-email@example.com
 name: Sanchezner Orange
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
-keywords: [Your keywords]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: 'https://oh-nought.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 domain: 'oh-nought.github.io' # the domain name for your site, e.g. example.com
